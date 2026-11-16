@@ -1,0 +1,14 @@
+{
+  "name": "robot2027-app",
+  "version": "2.2.0",
+  "description": "Robot 2027 Smart Companion V2.2 - <=100MB ARM SIMD LLM + Native Mic + 10 Real-Time Expressions + Replay Audio",
+  "scripts": {
+    "cap:sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.1.2",
+    "@capacitor/cli": "6.1.2",
+    "@capacitor/core": "6.1.2",
+    "@capacitor-community/text-to-speech": "6.0.0"
+  }
+}
